@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "“Interstellar for Consultation Services” is an Egyptian data analytics company that is specialized in developing small to medium robust shiny applications and R packages to meet a variety of custom analytics needs"
+  },
+  {
+    "objectID": "open_source_projects.html",
+    "href": "open_source_projects.html",
+    "title": "Open Source Projects",
+    "section": "",
+    "text": "Interstellar is interested in contributing to OSS community with many R packages and shiny applications. Such as:\n\ndbparser: for parsing online drugs databases as DrugBank\ndbdataset: data package contains parsed DrugBank db in dvobject R list format\ncovid19dbcand: a smaller version from dbdataset package that contains different tibbles that constitute the dataset parsed from DrugBank.\nperiscope: cooperated with Aggregate Genius to provide a scalable and UI-standardized ‘shiny’ framework including a variety of developer convenience functions with the goal of both streamlining robust application development and assisting in creating a consistent user experience regardless of application or developer."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Our Blog",
+    "section": "",
+    "text": "No matching items"
+  }
+]

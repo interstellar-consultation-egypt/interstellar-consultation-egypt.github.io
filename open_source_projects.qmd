@@ -1,0 +1,13 @@
+---
+title: "Open Source Projects"
+---
+
+Interstellar is interested in contributing to OSS community with many R packages and shiny applications. Such as:
+
+-   [dbparser](https://docs.ropensci.org/dbparser "Drugs Databaases parser"): for parsing online drugs databases as DrugBank
+
+-   [dbdataset](https://interstellar-consultation-services.github.io/dbdataset/ "parsed DrugBank DB"): data package contains parsed DrugBank db in dvobject R list format
+
+-   [covid19dbcand](https://interstellar-consultation-services.github.io/covid19dbcand/ "candidates drugs for covid19"): a smaller version from [dbdataset package](https://github.com/MohammedFCIS/dbdataset) that contains different tibbles that constitute the dataset parsed from [DrugBank](https://www.drugbank.ca/).
+
+-   [periscope](http://periscopeapps.org:3838/ "Enterprise Streamlined 'Shiny' Application Framework"): cooperated with [Aggregate Genius](https://www.aggregate-genius.com/ "Aggregate Genius") to provide a scalable and UI-standardized 'shiny' framework including a variety of developer convenience functions with the goal of both streamlining robust application development and assisting in creating a consistent user experience regardless of application or developer.

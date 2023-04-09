@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+**"Interstellar for Consultation Services"** is an Egyptian data analytics company that is specialized in developing small to medium robust shiny applications and R packages to meet a variety of custom analytics needs

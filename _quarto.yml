@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Interstellar for Consultation Services"
+  navbar:
+    logo: intersellar.png
+    logo-alt: intersellar.png
+    left:
+      - href: index.qmd
+        text: Home
+      - open_source_projects.qmd
+      - about.qmd
+      - posts.qmd
+  page-footer:
+    left: "Copyright 2023, Interstellar for Consultation Services"
+    right:
+      - icon: github
+        href: https://github.com/interstellar-Consultation-Services/
+      - icon: linkedin
+        href: https://www.linkedin.com/company/interstellar-consultation-services
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
