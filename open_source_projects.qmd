@@ -1,8 +1,8 @@
 ---
-title: "Open Source Projects"
+title: ""
 ---
 
-Interstellar is interested in contributing to OSS community with many R packages and shiny applications. Such as:
+Interstellar is interested in contributing to Open Source Software (OSS) community with many R packages and shiny applications. Such as:
 
 -   [dbparser](https://docs.ropensci.org/dbparser "Drugs Databaases parser"): for parsing online drugs databases as DrugBank
 

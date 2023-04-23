@@ -1,3 +1,5 @@
 ---
-title: "Interstellar-WS-Source"
+title: ""
 ---
+
+We develop small to medium robust shiny applications and R packages to meet a variety of custom analytics and deployment needs especially in Bioinformatics and Chemoinformatics domains. In addition to developing and maintaining robust R packages (open source and private packages) to meet our customers needs

@@ -10,7 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - open_source_projects.qmd
+      - href: open_source_projects.qmd
+        text: OSS
+      - href: talks.qmd
+        text: Talks
       - about.qmd
       - posts.qmd
   page-footer:
