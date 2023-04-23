@@ -1,5 +1,5 @@
 ---
-title: "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare"
+title: "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare"
 description: "A survey to show how to use R in different cases in bio fields"
 author:
   - name: Mohammed Ali
@@ -7,7 +7,7 @@ author:
     affiliation: Analytics Engineer @Interstellar for Consultation Services | EgyptR and AfricaR Communities leadership member
     affiliation-url: https://github.com/MohammedFCIS 
 date: 04-23-2023
-categories: [cheminformatics, R, drug discovery, bioinformatics, healthcare] # self-defined categories
+categories: [chemoinformatics, R, drug discovery, bioinformatics, healthcare] # self-defined categories
 citation: 
   url: https://interstellar-consultation-egypt.github.io/posts/23-4-2023-pharma-in-r 
 image: logo.jpeg
@@ -16,7 +16,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 ## Overview
 
-In case you are interested in using R language for developing data analysis or ML applications for bio related fields as Cheminformatics, Drug Discovery, Bioinformatics, or Healthcare in general, the following quick survey will help you to show different cases in that already done in R:
+In case you are interested in using R language for developing data analysis or ML applications for bio related fields as Chemoinformatics, Drug Discovery, Bioinformatics, or Healthcare in general, the following quick survey will help you to show different cases in that already done in R:
 
 ## BioConductor
 
@@ -32,7 +32,7 @@ The following are few resource you can start browsing to start knowing BioConduc
     -   [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/)
     -   [RNA Sequencing](https://www.bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) 
     -   [Feature generation for chemical compounds, proteins, DNA/RNA](https://rdrr.io/bioc/BioMedR/f/inst/doc/BioMedR.pdf)
-    -   [Cheminformatics Toolkit for R](https://bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html)
+    -   [Chemoinformatics Toolkit for R](https://bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html)
     -   [BioMedR](https://rdrr.io/bioc/BioMedR/f/inst/doc/BioMedR.pdf): Feature generation for chemical compounds, proteins, DNA/RNA
 
 ## Other Resources
@@ -47,11 +47,11 @@ The following are free learning resources and tools in different topics:
 
     -   [BioChemical Library](https://www.frontiersin.org/articles/10.3389/fphar.2022.833099/full)
 
-    -   [ChemmineR](https://bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html): Cheminformatics package for analyzing drug-like small molecule data in R
+    -   [ChemmineR](https://bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html): Chemoinformatics package for analyzing drug-like small molecule data in R
 
-    -   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
+    -   [Journal of ](https://jcheminf.biomedcentral.com/)Chemoinformatics
 
-    -   [Cheminformatics tools in R](https://riveradelgado.com/post/2021/04/18/chemistry-in-r/)
+    -   [Chemoinformatics tools in R](https://riveradelgado.com/post/2021/04/18/chemistry-in-r/)
 
 -   Bioinformatics:
 
