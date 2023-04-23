@@ -1,5 +1,5 @@
 ---
-title: "R in cheminformatics, bioinformatics, Drug Discovery and healthcare"
+title: "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare"
 description: "A survey to show how to use R in different cases in bio fields"
 author:
   - name: Mohammed Ali

@@ -6,6 +6,11 @@ freeze: true
 # enable banner style title blocks (see https://quarto.org/docs/authoring/title-blocks.html)
 title-block-banner: true
 page-layout: article
+
 comments:
   utterances:
     repo:  interstellar-consultation-egypt/blogComments
+
+format:
+  html:
+    include-after-body: ../footer.html
