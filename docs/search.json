@@ -23,28 +23,28 @@
   {
     "objectID": "posts/23-4-2023-pharma-in-r/index.html",
     "href": "posts/23-4-2023-pharma-in-r/index.html",
-    "title": "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare",
+    "title": "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare",
     "section": "",
-    "text": "In case you are interested in using R language for developing data analysis or ML applications for bio related fields as Cheminformatics, Drug Discovery, Bioinformatics, or Healthcare in general, the following quick survey will help you to show different cases in that already done in R:"
+    "text": "In case you are interested in using R language for developing data analysis or ML applications for bio related fields as Chemoinformatics, Drug Discovery, Bioinformatics, or Healthcare in general, the following quick survey will help you to show different cases in that already done in R:"
   },
   {
     "objectID": "posts/23-4-2023-pharma-in-r/index.html#bioconductor",
     "href": "posts/23-4-2023-pharma-in-r/index.html#bioconductor",
-    "title": "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare",
+    "title": "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare",
     "section": "BioConductor",
-    "text": "BioConductor\nBioConductor is a great place of R packages that focuses mainly on bio related fields and a very good place to start studying R in bio. It provides open source and (open development) tools for the analysis and comprehension of high-throughput genomic data using R. It has two releases each year, 800+ software packages, and a great and highly active user community.\nThe following are few resource you can start browsing to start knowing BioConductor:\n\nBioConductor Capabilities: This course covers BiocCnductor capabilities and it is renewable\nBioConductor: This channel full of different cases in bio in general including all topics above\nMost famous BioConductor SW\nMost famous BioConductor WF\nDifferent fields formal learning materials:\n\nOrchestrating Single-Cell Analysis with Bioconductor\nRNA Sequencing \nFeature generation for chemical compounds, proteins, DNA/RNA\nCheminformatics Toolkit for R\nBioMedR: Feature generation for chemical compounds, proteins, DNA/RNA"
+    "text": "BioConductor\nBioConductor is a great place of R packages that focuses mainly on bio related fields and a very good place to start studying R in bio. It provides open source and (open development) tools for the analysis and comprehension of high-throughput genomic data using R. It has two releases each year, 800+ software packages, and a great and highly active user community.\nThe following are few resource you can start browsing to start knowing BioConductor:\n\nBioConductor Capabilities: This course covers BiocCnductor capabilities and it is renewable\nBioConductor: This channel full of different cases in bio in general including all topics above\nMost famous BioConductor SW\nMost famous BioConductor WF\nDifferent fields formal learning materials:\n\nOrchestrating Single-Cell Analysis with Bioconductor\nRNA Sequencing \nFeature generation for chemical compounds, proteins, DNA/RNA\nChemoinformatics Toolkit for R\nBioMedR: Feature generation for chemical compounds, proteins, DNA/RNA"
   },
   {
     "objectID": "posts/23-4-2023-pharma-in-r/index.html#other-resources",
     "href": "posts/23-4-2023-pharma-in-r/index.html#other-resources",
-    "title": "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare",
+    "title": "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare",
     "section": "Other Resources",
-    "text": "Other Resources\nThe following are free learning resources and tools in different topics:\n\nBig Book of R for Life Sciences\nChemoinformatics:\n\nRCDK\nBioChemical Library\nChemmineR: Cheminformatics package for analyzing drug-like small molecule data in R\nJournal of Cheminformatics\nCheminformatics tools in R\n\nBioinformatics:\n\nR Bioinformatics Cookbook\nComputational Genomics with R\nBioinformatics and Biostatistics\nStructural Bioinformatics\n\nDrug Discovery\n\nThe Role of R in Drug Discovery, Research, and Development\n\nHealth Care:\n\nR in Healthcare"
+    "text": "Other Resources\nThe following are free learning resources and tools in different topics:\n\nBig Book of R for Life Sciences\nChemoinformatics:\n\nRCDK\nBioChemical Library\nChemmineR: Chemoinformatics package for analyzing drug-like small molecule data in R\nJournal ofChemoinformatics\nChemoinformatics tools in R\n\nBioinformatics:\n\nR Bioinformatics Cookbook\nComputational Genomics with R\nBioinformatics and Biostatistics\nStructural Bioinformatics\n\nDrug Discovery\n\nThe Role of R in Drug Discovery, Research, and Development\n\nHealth Care:\n\nR in Healthcare"
   },
   {
     "objectID": "posts/23-4-2023-pharma-in-r/index.html#conferences",
     "href": "posts/23-4-2023-pharma-in-r/index.html#conferences",
-    "title": "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare",
+    "title": "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare",
     "section": "Conferences",
     "text": "Conferences\nThere are multiple annual related conferences to discuss R updates relating to these fields as:\n\nR in Pharma: The conference for all things R related in the Pharma industry\nBioConductor Conference\nR in Medicine: The R/Medicine conference and community promote the development and use of R based tools to improve clinical research and practice.\nYou may want to share any more resources in comments below :)."
   },
@@ -53,7 +53,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "R in Cheminformatics, Cioinformatics, Drug Discovery and Healthcare\n\n\n\ncheminformatics\n\n\nR\n\n\ndrug discovery\n\n\nbioinformatics\n\n\nhealthcare\n\n\n\nA survey to show how to use R in different cases in bio fields\n\n\n\nMohammed Ali\n\n\nApr 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "R in Chemoinformatics, Bioinformatics, Drug Discovery and Healthcare\n\n\n\nchemoinformatics\n\n\nR\n\n\ndrug discovery\n\n\nbioinformatics\n\n\nhealthcare\n\n\n\nA survey to show how to use R in different cases in bio fields\n\n\n\nMohammed Ali\n\n\nApr 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks.html",
